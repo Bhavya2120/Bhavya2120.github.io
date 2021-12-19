@@ -14,6 +14,11 @@ type and scrambled it to make a type specimen book. It has survived not only fiv
 
 ### [Project 2: Line Following Robot](https://www.arduino.cc/)
 
+- Utilizing multiple infrared sensors to detect white and black colours
+- Programming an Arduino to control 12V DC motors such that the central sensor is always on the black line
+
+![](images/LFR.jfif)
+
 
 ### [Project 3: Obstacle Avoiding Robot](https://www.arduino.cc/)
 
